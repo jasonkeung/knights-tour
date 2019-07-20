@@ -4,7 +4,7 @@ This is a Java desktop application that demonstrates the Knight's Tour problem i
 
 ## Getting Started
 
-Run KnightsTour.jar as an executable Java program to start; no other files are required. If on a Linux machine, make sure Right Click > Properties > Permissions > "Allow executing file as a program" is checked. The other files in the repository are for development purposes and are not needed for normal use of the program. File20.txt is included for easy access and reference.
+Run KnightsTour.jar as an executable Java program to start; no other files are required. If on a Linux machine, make sure Right Click > Properties > Permissions > "Allow executing file as a program" is checked. The other files in the repository are for development purposes and are not needed for normal use of the program.
 
 ## Built With
 
